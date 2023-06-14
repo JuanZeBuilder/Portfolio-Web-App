@@ -1,6 +1,6 @@
 # 3D-React-Portfolio-Web-App
-This is my 3D portfolio webpage source code. Deployed in AWS S3 static webpage hosting 
-Link: http://angjuanwei.portfolio.s3-website-ap-southeast-1.amazonaws.com/
+This is my 3D portfolio webpage source code. Deployed in AWS S3 static webpage hosting <br />
+Link: http://angjuanwei.portfolio.s3-website-ap-southeast-1.amazonaws.com/ <br />
 
 ## Getting Started
 
@@ -33,6 +33,6 @@ Link: http://angjuanwei.portfolio.s3-website-ap-southeast-1.amazonaws.com/
 - 3D Model Earth Orbit: https://sketchfab.com/3d-models/stylized-planet-789725db86f547fc9163b00f302c3e70
 
 ### Credits
-Credit to JavaScript Mastery tutorial on 3D Web Developer Portfolio in React Three.js.
-Youtube video: https://www.youtube.com/watch?v=0fYi8SGA20k&ab_channel=JavaScriptMastery
-Github Repository: https://github.com/adrianhajdin/project_3D_developer_portfolio/tree/main
+Credit to JavaScript Mastery tutorial on 3D Web Developer Portfolio in React Three.js. <br />
+Youtube video: https://www.youtube.com/watch?v=0fYi8SGA20k&ab_channel=JavaScriptMastery <br />
+Github Repository: https://github.com/adrianhajdin/project_3D_developer_portfolio/tree/main <br />
