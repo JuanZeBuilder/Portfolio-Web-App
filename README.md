@@ -1,5 +1,5 @@
 # 3D-React-Portfolio-Web-App
-This is my 3D portfolio webpage source code. Deployed in AWS S3 static webpage hosting <br />
+This is my 3D portfolio webpage source code. Deployed with AWS S3, Cloudfront and Route53 <br />
 Link: juanwei.bio <br />
 
 ## Getting Started
